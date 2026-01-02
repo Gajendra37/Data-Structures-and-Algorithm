@@ -1,4 +1,4 @@
-//Undirected Graph Implementation Using Array
+//Undirected Graph Implementation Using Array (Adjacency Matrix)
 
 #include <stdio.h>
 
