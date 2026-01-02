@@ -1,4 +1,4 @@
-//Directed Graph Implementation Using Array
+//Directed Graph Implementation Using Array (Adjacency Matrix)
 
 #include <stdio.h>
 
